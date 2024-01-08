@@ -129,6 +129,7 @@ namespace Silent_Hill_2_NHT_minimalist
             handgun.Text = helper.ReadMemory<short>(handgunAddr).ToString();
             shotgun.Text = helper.ReadMemory<short>(shotgunAddr).ToString();
             rifle.Text = helper.ReadMemory<short>(rifleAddr).ToString();
+            ///more coming soon
         }
     }
 }
