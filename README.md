@@ -1,6 +1,8 @@
 # Silent Hill 2 (PC) No Hit Tool
 [![Image not found](https://img.shields.io/badge/Download%20the%20latest%20version%20here-limegreen?style=for-the-badge)](https://github.com/miguelmm95/Silent-Hill-2-NHT-minimalist/releases/tag/Tools)
 ![Static Badge](https://img.shields.io/badge/YouTube%20tutorial%20(Coming%20soon)-red?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2Fmiguelmm95%2FSilent-Hill-2-NHT-minimalist%2Freleases%2Ftag%2FTools)
+
+![GitHub all releases](https://img.shields.io/github/downloads/miguelmm95/Silent-Hill-2-NHT-minimalist/total?style=for-the-badge&color=blue)
 ## **Description**
 
 A tool that shows stats in real time of Silent Hill 2, currently working only for the PC version of the game both vanilla and Enhanced Edition.
