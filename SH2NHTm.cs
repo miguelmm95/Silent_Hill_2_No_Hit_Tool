@@ -58,20 +58,6 @@ namespace Silent_Hill_2_NHT_minimalist
             shotgunAddr = helper.GetBaseAddress(0x1B7A7F8);
             rifleAddr = helper.GetBaseAddress(0x1B7A7FC);
 
-            HP.Text = helper.ReadMemory<float>(hpAddr).ToString();
-            IGT.Text = helper.ReadMemory<float>(IGTAddr).ToString();
-            damagetaken.Text = helper.ReadMemory<float>(damageAddr).ToString();
-            saves.Text = helper.ReadMemory<byte>(savesAddr).ToString();
-            enemiesshooting.Text = helper.ReadMemory<short>(enemiesshootingAddr).ToString();
-            enemiesmelee.Text = helper.ReadMemory<short>(enemiesfightingAddr).ToString();
-            items.Text = helper.ReadMemory<short>(itemsAddr).ToString();
-            actionlevel.Text = helper.ReadMemory<byte>(actionlevelAddr).ToString();
-            riddlelevel.Text = helper.ReadMemory<byte>(riddlelevelAddr).ToString();
-            boattime.Text = helper.ReadMemory<float>(boatAddr).ToString();
-            FPS.Text = helper.ReadMemory<float>(FPSAddr).ToString();
-            handgun.Text = helper.ReadMemory<short>(handgunAddr).ToString();
-            shotgun.Text = helper.ReadMemory<short>(shotgunAddr).ToString();
-            rifle.Text = helper.ReadMemory<short>(rifleAddr).ToString();
             timer1.Start();
         }
 
@@ -138,6 +124,7 @@ namespace Silent_Hill_2_NHT_minimalist
             float phTimer = helper.ReadMemory<float>(boatAddr);
             TimeSpan timer = TimeSpan.FromSeconds(phTimer);
             boattime.Text = $"{(int)timer.TotalMinutes:D2}:{timer.Seconds:D2}";
+
             FPS.Text = helper.ReadMemory<float>(FPSAddr).ToString("F0");
             handgun.Text = helper.ReadMemory<short>(handgunAddr).ToString();
             shotgun.Text = helper.ReadMemory<short>(shotgunAddr).ToString();

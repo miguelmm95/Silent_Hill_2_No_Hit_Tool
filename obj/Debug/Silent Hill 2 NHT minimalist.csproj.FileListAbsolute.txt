@@ -13,3 +13,18 @@ C:\Users\Ares\source\repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minima
 C:\Users\Ares\source\repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent Hill 2 NHT minimalist.TrustInfo.xml
 C:\Users\Ares\source\repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent Hill 2 NHT minimalist.exe.manifest
 C:\Users\Ares\source\repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent Hill 2 NHT minimalist.application
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent Hill 2 NHT minimalist.csproj.AssemblyReference.cache
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent_Hill_2_NHT_minimalist.SH2NHTm.resources
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent_Hill_2_NHT_minimalist.Properties.Resources.resources
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent Hill 2 NHT minimalist.csproj.GenerateResource.cache
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent Hill 2 NHT minimalist.exe
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent Hill 2 NHT minimalist.pdb
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\bin\Debug\Silent Hill 2 NHT minimalist.exe.config
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\bin\Debug\Silent Hill 2 NHT minimalist.exe.manifest
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\bin\Debug\Silent Hill 2 NHT minimalist.application
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\bin\Debug\Silent Hill 2 NHT minimalist.exe
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\bin\Debug\Silent Hill 2 NHT minimalist.pdb
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent Hill 2 NHT minimalist.csproj.CoreCompileInputs.cache
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent Hill 2 NHT minimalist.TrustInfo.xml
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent Hill 2 NHT minimalist.exe.manifest
+D:\Repos\Silent Hill 2 NHT minimalist\Silent Hill 2 NHT minimalist\obj\Debug\Silent Hill 2 NHT minimalist.application
