@@ -31,4 +31,5 @@ This project is an unofficial tool created by and for the Silent Hill 2 gaming c
 
 ## **Acknowledgments**
 
-To [n4t4nm](https://n4t4nm.github.io) for the MemoryHelper class that we use for the code.
+- To [n4t4nm](https://n4t4nm.github.io) for the MemoryHelper class that we use for the code.
+- The [Resident Evil No Hit](https://discord.gg/hJHeYtHKsQ) community for all the support.
