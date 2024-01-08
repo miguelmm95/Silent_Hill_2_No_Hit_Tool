@@ -12,7 +12,7 @@ A tool that shows stats in real time of Silent Hill 2, currently working only fo
 ## **Usage**
 
 - Download the .zip in the release.
-- Open the game firts before opening the tool.
+- Open the game first before opening the tool.
 - Extract the .zip and open the .exe.
 
 ## **Contributions**
