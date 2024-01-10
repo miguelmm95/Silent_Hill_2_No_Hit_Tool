@@ -1,14 +1,9 @@
 ﻿using Memory.Win64;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Diagnostics;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Drawing;
 
 namespace Silent_Hill_2_NHT_minimalist
 {
@@ -64,6 +59,12 @@ namespace Silent_Hill_2_NHT_minimalist
         private void timer1_Tick(object sender, EventArgs e)
         {
             HP.Text = helper.ReadMemory<float>(hpAddr).ToString("F0");
+
+            //float hpTmp = helper.ReadMemory<float>(hpAddr);
+            double jamesHP = (double)helper.ReadMemory<float>(hpAddr);
+            Debug.WriteLine(jamesHP);
+
+            HP.BackColor = ColorInterpolator.InterpolateBetween(Color.Red, Color.Lime, jamesHP/100);
             
             float totalTime = helper.ReadMemory<float>(IGTAddr);
             TimeSpan time = TimeSpan.FromSeconds(totalTime);

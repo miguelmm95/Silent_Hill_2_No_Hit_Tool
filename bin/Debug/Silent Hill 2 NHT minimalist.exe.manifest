@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Silent Hill 2 NHT minimalist.exe" size="58440">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Silent Hill 2 NHT minimalist.exe" size="59976">
       <assemblyIdentity name="Silent Hill 2 NHT minimalist" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>eegKcG5IbZ0qKkvri/OglAn/6Ul5vYp89e3ZVM5Ash0=</dsig:DigestValue>
+        <dsig:DigestValue>4GtI9iNtMTm6mmn5Ygsbt/2o/dxnMOnBEzSIznv3s7U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
