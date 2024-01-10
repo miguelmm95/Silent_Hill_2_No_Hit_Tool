@@ -7,13 +7,14 @@
 
 A tool that shows stats in real time of Silent Hill 2, currently working only for the PC version of the game both vanilla and Enhanced Edition.
 
-![SH2NHT](https://github.com/miguelmm95/Silent-Hill-2-NHT-minimalist/assets/79021700/59ff1674-0f26-4f49-9db2-45471df4f2f6)
+![sh2nhtm](https://github.com/miguelmm95/Silent-Hill-2-NHT-minimalist/assets/86203793/fed5f078-548b-4e1f-9ea2-f28f66b5d8f5) ![sh2nhtyt](https://github.com/miguelmm95/Silent-Hill-2-NHT-minimalist/assets/86203793/7eab8ebf-31d6-4e03-a205-2b0de940d640) ![lsasl](https://github.com/miguelmm95/Silent-Hill-2-NHT-minimalist/assets/86203793/331023e1-4361-4382-982c-fe37d0f31b1b)
 
 ## **Usage**
 
 - Download the .zip in the release.
 - Open the game first before opening the tool.
 - Extract the .zip and open the .exe.
+- configure it in OBS to remove the background (Youtube tutorial) https://youtu.be/R9KA_o_vwvs
 
 ## **Contributions**
 
