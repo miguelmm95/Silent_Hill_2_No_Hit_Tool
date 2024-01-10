@@ -15,7 +15,7 @@ A tool that shows stats in real time of Silent Hill 2, currently working only fo
 - Open the game first before opening the tool.
 - Extract the .zip and open the .exe.
 - configure it in OBS to remove the background 
-- [Youtube tutorial](https://youtu.be/R9KA_o_vwvs)
+- Youtube tutorial: [English](https://youtu.be/R9KA_o_vwvs) [Spanish](https://youtu.be/dcPFi5mnjBw)
 
 ## **Contributions**
 
