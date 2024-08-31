@@ -50,7 +50,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>4GtI9iNtMTm6mmn5Ygsbt/2o/dxnMOnBEzSIznv3s7U=</dsig:DigestValue>
+        <dsig:DigestValue>21ZztNWHDypmdjrVVda83w6QnZ0a583wiqXk1YuSZFc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -63,13 +63,13 @@
       <dsig:DigestValue>5ZY4Nbyhyt3cqpYL1NrI4PHn1/aCazk0o57E/JEzCXM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Silent Hill 2 NHT minimalist.exe.config" size="189">
+  <file name="Silent Hill 2 NHT minimalist.exe.config" size="184">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+      <dsig:DigestValue>FihlZtVNgcNyH37Pf0Jtll3jZOm+L55ijXNjtoS2/mo=</dsig:DigestValue>
     </hash>
   </file>
   <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
